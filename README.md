@@ -14,7 +14,7 @@ $ pip install -r requirements.txt
 <br>
 <br>
 
-- under QA_pipeline folder, to run this model, you can use the following command 
+- under QA_pipeline folder, to run this model, you can use the following command <br />
 (the trained model is saved in other place, so you cannot run it by just copying this repo)
 ```
 $ sh QA_pipeline.sh
