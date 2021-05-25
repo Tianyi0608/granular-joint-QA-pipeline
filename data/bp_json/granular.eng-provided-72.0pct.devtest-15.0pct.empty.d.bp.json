@@ -1,0 +1,1772 @@
+{
+  "corpus-id": "Granular English, V1.6, Provided Devtest Ref (Obfuscated)",
+  "entries": {
+    "051da3da-5c4c-5d7e-b284-3a4f3eadda6b": {
+      "doc-id": "051da3da-5c4c-5d7e-b284-3a4f3eadda6b",
+      "entry-id": "051da3da-5c4c-5d7e-b284-3a4f3eadda6b",
+      "segment-sections": [
+        {
+          "end": 45,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 66,
+          "start": 49,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 93,
+          "start": 68,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 45,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 66,
+          "start": 49,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 93,
+          "start": 68,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 190,
+          "start": 99,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 344,
+          "start": 192,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 466,
+          "start": 346,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 493,
+          "start": 467,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 659,
+          "start": 495,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 793,
+          "start": 660,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1063,
+          "start": 795,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1257,
+          "start": 1065,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1367,
+          "start": 1259,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1450,
+          "start": 1369,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1512,
+          "start": 1451,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1614,
+          "start": 1514,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1669,
+          "start": 1615,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1740,
+          "start": 1671,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1771,
+          "start": 1741,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Heathrow campaigners arrested over M4 protest\r\n\r\nPress Association\r\nSat 19 Nov 2016 09.25 EST\r\n\r\n\r\nFifteen people have been arrested during a protest near Heathrow against airport expansion.\r\nThose arrested were among a small group of people who ran on to an M4 spur road and lay down in front of oncoming traffic, causing temporary disruption.\r\nA Metropolitan police spokesman said: “There have been 15 arrests for obstructing the highway and public order offences. Officers remain on scene.”\r\nOther campaigners gathered on the flyover to chant “no ifs, no buts, no third runway” and “no more runways” in the protest organised by the campaign group RisingUp! Placards reading “Heathrow expansion will destroy thousands of homes” and “protect the planet, no more runways”, were also held high.\r\nA spokesman for the group said: “The government’s decisions to expand Heathrow, despite mass opposition from local residents and the fact that doing so is incompatible with the UK’s own laws on climate change, leaves us with no morally acceptable option but to resist.\r\n“Only 15% of the British public is responsible for 70% of international flights taken in the UK and Heathrow largely serves international passengers who have a mean income of £57,000 per year.\r\n“This expansion is being driven by the very rich at the expense of some of the poorest people in the world.”\r\nNeil Keveren, a resident of nearby Harmondsworth, said: “Democracy has failed us. Elected leaders have totally reversed the will of the people.\r\n“As a direct result, the quality of life and life expectancy of the population here will be shorter. This is against our human rights and must be defended.\r\n“Who is left to correct this injustice when our politicians will not? The answer is us, you and me.”\r\n",
+      "segment-type": "document"
+    },
+    "1230424b-5ddc-5855-b928-9d53213035f9": {
+      "doc-id": "1230424b-5ddc-5855-b928-9d53213035f9",
+      "entry-id": "1230424b-5ddc-5855-b928-9d53213035f9",
+      "segment-sections": [
+        {
+          "end": 64,
+          "start": 52,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 529,
+          "start": 509,
+          "structural-element": "Section_Header"
+        },
+        {
+          "end": 64,
+          "start": 52,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 529,
+          "start": 509,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 50,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 162,
+          "start": 68,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 304,
+          "start": 164,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 412,
+          "start": 306,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 507,
+          "start": 414,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 696,
+          "start": 531,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 809,
+          "start": 698,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 948,
+          "start": 811,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1088,
+          "start": 950,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1202,
+          "start": 1090,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1346,
+          "start": 1204,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1502,
+          "start": 1348,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1567,
+          "start": 1504,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "North Yemen forces fired on protesters, say rebels\r\n4 March 2011\r\n\r\nHouthi rebels in north Yemen say the armed forces have fired on their anti-government protest.\r\nThe Shia rebels claim two people were killed and at least seven were injured in the incident in the northern province of Amran, reports say.\r\nThere have been many anti-government protests in recent weeks, mainly focused in cities of Sanaa and Aden.\r\nDemonstrators want the resignation of President Ali Abdullah Saleh, who has ruled since 1978.\r\nSupport for protests\r\nThousands of people are reported to have gathered in the town of Harf Sufyan, near Huth, in a peaceful protest calling for political change and an end to corruption.\r\nA rebel spokesman told Reuters news agency that the military had fired rockets at protesters from an army base.\r\nThe government and the Houthi rebels, members of the Zaidi Shia sect, have been observing a truce, although there are occasional clashes.\r\nThe Houthi announced their support last month for anti-government protests which have been inspired by the uprisings in Egypt and Tunisia.\r\nIn the capital Sanaa, thousands of people are reported to be out on the streets again for another demonstration.\r\nThe president has said he will not seek another term in office in 2013 but last week he vowed to defend his regime \"with every drop of blood.\"\r\nOn Thursday, opposition and religious leaders proposed a plan which would involve Mr Saleh stepping down by the end of the year, in a peaceful transition.\r\nThere has not yet been any government reaction to that proposal.",
+      "segment-type": "document"
+    },
+    "169aef60-3162-54cf-9573-1e466d1b0934": {
+      "doc-id": "169aef60-3162-54cf-9573-1e466d1b0934",
+      "entry-id": "169aef60-3162-54cf-9573-1e466d1b0934",
+      "segment-sections": [
+        {
+          "end": 50,
+          "start": 1,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 84,
+          "start": 51,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 251,
+          "start": 230,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 161,
+          "start": 86,
+          "structural-element": "Story-Lead"
+        },
+        {
+          "end": 229,
+          "start": 162,
+          "structural-element": "Story-Lead"
+        },
+        {
+          "end": 50,
+          "start": 1,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 84,
+          "start": 51,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 161,
+          "start": 86,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 229,
+          "start": 162,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 251,
+          "start": 230,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 429,
+          "start": 252,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 566,
+          "start": 430,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 624,
+          "start": 567,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 763,
+          "start": 625,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 989,
+          "start": 764,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\nOfficial: Egyptian elections to begin in November\nFrom Mohamed Fadel Fahmy, For CNN\n\nThe elections will be the first since the ouster of President Hosni Mubarak\nThe announcement of voting dates has been among protesters' demands\nCairo, Egypt (CNN) -- Egyptian elections, the first since the ouster of longtime President Hosni Mubarak in February, will begin November 21, the head of the nation's election commission said Sunday.\nThe first phase of voting will end January 3, then more elections will be held from January 22 through March 4, Abdel Moez Ibrahim said.\nMubarak was toppled after two weeks of protests in Egypt. In the wake of his departure, demonstrators have criticized the performance of the Supreme Council of the Armed Forces and the government. Among their desires was the announcement of election dates, along with the abolishment of military tribunals, the establishment of minimum and maximum wages and permission for Egyptians abroad to vote in the coming elections.\n\n",
+      "segment-type": "document"
+    },
+    "19b657cc-a92e-5c35-936b-06c0a32c44e8": {
+      "doc-id": "19b657cc-a92e-5c35-936b-06c0a32c44e8",
+      "entry-id": "19b657cc-a92e-5c35-936b-06c0a32c44e8",
+      "segment-sections": [
+        {
+          "end": 66,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 66,
+          "start": 52,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 102,
+          "start": 68,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 238,
+          "start": 219,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 66,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 66,
+          "start": 52,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 102,
+          "start": 68,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 238,
+          "start": 219,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 203,
+          "start": 106,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 217,
+          "start": 204,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 402,
+          "start": 239,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 529,
+          "start": 404,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 622,
+          "start": 531,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 818,
+          "start": 624,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1086,
+          "start": 820,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1148,
+          "start": 1088,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1357,
+          "start": 1150,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1583,
+          "start": 1359,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1706,
+          "start": 1585,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1807,
+          "start": 1708,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1928,
+          "start": 1809,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 2109,
+          "start": 1930,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 2310,
+          "start": 2111,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 2386,
+          "start": 2312,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Sarawakian immigration officers charged with graft\r\nBY SULOK TAWIE\r\nThe Malay Mail Online10 April 2017\r\n\r\nNajib said the reduction would put an additional RM1.5 billion back in the pockets of Malaysians. — Reuters pic\r\nKUCHING, April 10 — Six immigration officers were charged here today with receiving bribes of between RM100 and RM1,000 to allegedly allow undocumented foreign workers into the state.\r\nThey pleaded not guilty before Sessions Court Judge Nixion Kennedy Kumbong, who then fixed April 28 for pre-trial management.\r\nThe accused were said to have received the cash between late last year and early this year.\r\nThe Malaysian Anti-Corruption Commission (MACC) charged them separately under Section 165 of the Penal Code which carries a maximum imprisonment of two years, or a fine, or both upon conviction.\r\nThe six — assistant enforcement officer Khairul Nizam Omar, 41, Immigration officers Norhaliza Hussein, 34, Emily Ngayan anak Beliang, 36, Benjamin Morsit, 34, Gracy Bohan, 35, and Agnes James Daim, 42 — were accused of accepting the cash from Fazal Illahi Juma Gul.\r\nThe cash was allegedly transferred into their bank accounts.\r\nMACC prosecuting officer Katherine Nais asked the court to release each of the six on RM10,000 cash with two sureties, but Roger Chin, defence counsel for Agnes and Emily, strongly objected to the cash bail.\r\n“There is no reason to impose the cash bail at all because there is no evidence to show that they will not attend the trial later,” he said, adding that both Agnes and Emily are still working with the Immigration Department.\r\nHe said when MACC called them last Friday to go to the court to face the charges, they came voluntarily before 9am today.\r\nThe judge then fixed RM6,000 court bail for Agnes and RM7,000 for Emily, both with one surety each.\r\nThe court also fixed bail for Norhaliza at RM6,000, Benjamin at RM5,000, Khairul Nizam at RM5,000 and Gracy at RM7,000.\r\nOn March 15, the MACC arrested 11 Sarawakian immigration officers who allegedly received bribes from a syndicate to turn a blind eye to illegal foreign workers entering the state.\r\nThe officers — six of whom are women — were believed to have been paid between RM200 and RM5,000 to not take action against foreign workers who did not possess valid travel documents or work permits.\r\nThe commission also confiscated RM10,000 in cash from one of the suspects.\r\n\r\n",
+      "segment-type": "document"
+    },
+    "2ab255c8-c8b4-52d0-82fe-4151fa7e74f8": {
+      "doc-id": "2ab255c8-c8b4-52d0-82fe-4151fa7e74f8",
+      "entry-id": "2ab255c8-c8b4-52d0-82fe-4151fa7e74f8",
+      "segment-sections": [
+        {
+          "end": 100,
+          "start": 39,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 37,
+          "start": 0,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 125,
+          "start": 104,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 37,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 100,
+          "start": 39,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 125,
+          "start": 104,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 266,
+          "start": 126,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 500,
+          "start": 269,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 566,
+          "start": 503,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 681,
+          "start": 569,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 777,
+          "start": 684,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 915,
+          "start": 778,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1125,
+          "start": 918,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1385,
+          "start": 1128,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1511,
+          "start": 1388,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "March 15, 2020 / 2:16 PM / in 18 days\r\nCoronavirus crisis delays start of Netanyahu corruption trial\r\n\r\nJERUSALEM (Reuters) - Israeli Prime Minister Benjamin Netanyahu’s corruption trial was delayed on Sunday for two months, until May, due to the coronavirus crisis. \r\nThe Justice Ministry said the trial, which was due to have opened on March 17 with the reading of an indictment in three graft cases against Israel’s longest-serving leader, would begin on May 24 due to the outbreak of coronavirus. \r\nCharges against him include bribery, breach of trust and fraud. \r\nNetanyahu, 70, who is spearheading Israel’s measures to slow the spread of the virus, has denied any wrongdoing. \r\nThe prime minister was tested for the coronavirus as a precaution, his office said on Sunday. It did not announce the result but said he was asymptomatic before the test, which was also administered to those in his close proximity. \r\nNetanyahu, who heads the right-wing Likud party, is fighting for his political life after an inconclusive election on March 2, following ballots in April and September that also ended without a clear victor. \r\nIn his legal cases, Netanyahu is accused of wrongfully accepting $264,000 worth of gifts from tycoons, which prosecutors say included cigars and champagne, and of dispensing regulatory favours in alleged bids for improved coverage by a popular news website. \r\nHe could face up to 10 years in prison if convicted of bribery and a maximum three-year term for fraud and breach of trust. \r\n\r\n\r\n",
+      "segment-type": "document"
+    },
+    "375ad7ef-f7d9-56cd-8624-946907c58dfb": {
+      "doc-id": "375ad7ef-f7d9-56cd-8624-946907c58dfb",
+      "entry-id": "375ad7ef-f7d9-56cd-8624-946907c58dfb",
+      "segment-sections": [
+        {
+          "end": 54,
+          "start": 2,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 82,
+          "start": 58,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 109,
+          "start": 84,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 54,
+          "start": 2,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 82,
+          "start": 58,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 109,
+          "start": 84,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 254,
+          "start": 115,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 384,
+          "start": 256,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 486,
+          "start": 386,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 570,
+          "start": 487,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 631,
+          "start": 571,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 730,
+          "start": 633,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\r\nIraqi insurgents bomb family home of police officers\r\n\r\nAssociated Press in Iraq\r\nThu 26 Jan 2012 03.39 EST\r\n\r\n\r\nIraqi officials say insurgents have bombed a house belonging to two police officers and their families in central Iraq , killing 10 people.\r\nA police officer said the attack took place early on Thursday morning in the Hamia area, about 31 miles (50km) south of Baghdad.\r\nHe said the house where the two brothers lived was levelled when insurgents planted bombs around it. Both the male officers and two children under one years of age were among the dead. A doctor at a nearby hospital confirmed the casualty figure.\r\nBoth officials spoke on condition of anonymity as they are not authorised to release information.\r\n",
+      "segment-type": "document"
+    },
+    "3aaadbd7-cd6d-54ed-a2f4-e01508f41cf6": {
+      "doc-id": "3aaadbd7-cd6d-54ed-a2f4-e01508f41cf6",
+      "entry-id": "3aaadbd7-cd6d-54ed-a2f4-e01508f41cf6",
+      "segment-sections": [
+        {
+          "end": 25,
+          "start": 2,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 104,
+          "start": 25,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 480,
+          "start": 106,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 822,
+          "start": 481,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1019,
+          "start": 823,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1162,
+          "start": 1020,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1413,
+          "start": 1163,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\n\nFrench Foreign Ministry: “We’ll Continue To Discuss Situation Of Christians With Algerian Authorities”\n The French foreign affairs Ministry and of Europe has stated that it will continue in conjunction with European partners, to address the situation of Catholic and Protestant Christians with the Algerian authorities at every opportunity, pointing out that Algeria is bound by constitutional and international obligations to guarantee the rights of all Christians on its soil.\nThe French official stance came in response to a question addressed to the Foreign Ministry (Quai D’orsay) at the National Assembly, dated September 4th 2018, which was raised by Rep. Martin Wuner of the Republican Party to President Emmanuel Macron, claiming that Christians are allegedly subjected to oppression and persecution in Algeria.\nThe Quai D’Orsay said that the French authorities have always reiterated their commitment to human rights and individual freedoms as part of their regular and deep political dialogue with Algeria.\nAccording to the French Foreign Ministry, the conditions of worship are exclusively subjected to the jurisdiction of the Algerian authorities.\nThe latter (ie, the Algerian authorities) are bound to live up to constitutional and international obligations, through Article 42 of the Algerian Constitution, which provides for freedom of belief and freedom of worship guaranteed for all Algerians.\n",
+      "segment-type": "document"
+    },
+    "401c206a-a24e-5612-b13a-ee52df64add1": {
+      "doc-id": "401c206a-a24e-5612-b13a-ee52df64add1",
+      "entry-id": "401c206a-a24e-5612-b13a-ee52df64add1",
+      "segment-sections": [
+        {
+          "end": 59,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 83,
+          "start": 60,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 96,
+          "start": 84,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 105,
+          "start": 97,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 59,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 83,
+          "start": 60,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 96,
+          "start": 84,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 105,
+          "start": 97,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 268,
+          "start": 106,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 389,
+          "start": 269,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 517,
+          "start": 390,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 579,
+          "start": 518,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 695,
+          "start": 580,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 923,
+          "start": 696,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Armenia's New PM Meets With Russia's Putin for the 1st Time\nBy The Associated Press\nMay 14, 2018\nMOSCOW — Russian President Vladimir Putin has met with Armenia's new prime minister for the first time after former protest leader Nikol Pashinian was elected to the post.\nNikol Pashinian, an opposition figure who spearheaded weeks of nationwide protests, was elected by parliament last week. He and his supporters had pressured the country's long-term leader, Serzh Sargsyan, to step down rather than seek a power grab. Sargsyan's ten-year rule was marred by widespread corruption.\nLandlocked Armenia hosts an important Russian military base and has been reliant on Russia's cheap energy supplies.\nAfter meeting with Putin in the Black Sea resort of Sochi, Pashinian on Monday vowed to \"give a new impetus\" to Armenia's relations with Russia and said \"no one has ever doubted\" that Russia is a strategic ally for his country.\n",
+      "segment-type": "document"
+    },
+    "4b5570e1-e7e6-5073-b310-203384370144": {
+      "doc-id": "4b5570e1-e7e6-5073-b310-203384370144",
+      "entry-id": "4b5570e1-e7e6-5073-b310-203384370144",
+      "segment-sections": [
+        {
+          "end": 754,
+          "start": 574,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 180,
+          "start": 2,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 316,
+          "start": 182,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 440,
+          "start": 318,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 467,
+          "start": 441,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 572,
+          "start": 468,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 641,
+          "start": 574,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 754,
+          "start": 642,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1119,
+          "start": 756,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1236,
+          "start": 1121,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1269,
+          "start": 1238,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1518,
+          "start": 1270,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1641,
+          "start": 1520,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1813,
+          "start": 1643,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1861,
+          "start": 1814,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1967,
+          "start": 1863,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 2124,
+          "start": 1969,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\r\nAn investigation by the Serious Fraud Office into allegations that the arms company BAE Systems runs a £60m Saudi \"slush fund\" has made a breakthrough, the Guardian can disclose.\r\nThe SFO confirmed last night that it had made two more arrests in the case, based on fresh allegations of BAE-linked money-laundering.\r\nOne of those arrested was Wing Commander Tony Winship, the former BAE executive who handled payments to Saudi dignitaries. The second is a chauffeur. Legal sources said the driver was not regarded as a central figure, but is helping in the investigation.\r\nMr Winship's lawyer added: \"Mr Winship fully denied any wrongdoing. He was informed by the investigating officer following the interview that no action would be taken against him.\"\r\nThe SFO said: \"We can confirm that as part of the ongoing investigation jointly undertaken by the SFO and the Ministry of Defence police into companies contracted by BAE to provide services in connection with defence equipment contracts with the government of Saudi Arabia , a 73-year-old man and a 65-year-old man attended Holborn police station by appointment.\"\r\nBoth men were arrested and interviewed on suspicion of money-laundering, the statement said, before being released.\r\nBAE last night remained silent. The latest moves are expected to bring closer a decision by Lord Goldsmith, the attorney general, on whether to prosecute Britain's biggest arms company, which gets more than £1bn a year from Riyadh for running much of the Saudi regime's air force.\r\nThe significance of the SFO's fresh arrests is that they represent a completely new turn in the corruption investigation.\r\nIt was originally sparked by disclosures in the Guardian of the lavish lifestyle enjoyed at BAE's expense by the Saudi prince in charge of the long-running arms contract. Payments were signed off by top BAE executives.\r\nIt is understood that the new money-laundering investigations relate to events as recently as this year.\r\nThe SFO is currently compiling lengthy witness statements from those involved, with a view to putting the case before law officers by the end of this year.\r\n",
+      "segment-type": "document"
+    },
+    "4c2b69f4-dc8c-5a29-8667-caaa4efc0e60": {
+      "doc-id": "4c2b69f4-dc8c-5a29-8667-caaa4efc0e60",
+      "entry-id": "4c2b69f4-dc8c-5a29-8667-caaa4efc0e60",
+      "segment-sections": [
+        {
+          "end": 47,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 85,
+          "start": 49,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 114,
+          "start": 86,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 47,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 85,
+          "start": 49,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 114,
+          "start": 86,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 177,
+          "start": 116,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 261,
+          "start": 179,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 450,
+          "start": 263,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 568,
+          "start": 452,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 702,
+          "start": 570,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 812,
+          "start": 702,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 924,
+          "start": 813,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 995,
+          "start": 926,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1192,
+          "start": 997,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1283,
+          "start": 1196,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1477,
+          "start": 1284,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1581,
+          "start": 1479,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1648,
+          "start": 1583,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1721,
+          "start": 1649,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1748,
+          "start": 1723,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1950,
+          "start": 1749,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Petrobras chief resigns amid corruption scandal\r\nby Ivana Kottasova   @ivanakottasova February 4, 2015: 1:57 PM ET\r\nMaria das Gracas Foster has resigned as the CEO of Petrobras.\r\nBrazilian state-controlled oil giant Petrobras launched a huge boardroom shake up.\r\nThe company's CEO Maria das Gracas Foster and five other executive directors resigned Wednesday, amid what the Brazilian media call the biggest corporate scandal in the country's history.\r\nPetrobras' downward journey started in September when reports of its alleged wrongdoing first surfaced in the media.\r\nDozens of senior managers of Petrobras and other companies have been arrested during the months long criminal investigation dubbed \"Operation Car Wash.\"\r\nFederal prosecutors accuse Petrobras' former executives of bribery and money laundering. The investigators say the managers illegally \"diverted\" billions from Petrobras' accounts for their activities.\r\nMore than 80 people have been charged in connection with the scandal.\r\nWolf Popper law firm, which represents Petrobras' shareholders in a class action lawsuit, said the oil company was also releasing false statements and misleading investors about its asset values.\r\n\r\nPetrobras ( PBRA ) stock has fallen 53% since September when the scandal first erupted. Its credit default swaps, indicating the risk investors attach to the company, soared over 200 basis points this year alone, and credit rating companies Fitch and Moody's downgraded it to junk.\r\nBut when news of the corporate shake up emerged on Tuesday, Petrobras regained some value, rising 16%.\r\nSome say the resignations might give the oil giant a fresh start. Petrobras is sitting on one of the largest oil discoveries in the world.\r\n\"(It) has huge potential. This may be an opportunity for Petrobras to get back on track and move past the corruption controversy,\" said Gianna Bern, the author of Investing in Energy and former senior director at Fitch Ratings.\r\n",
+      "segment-type": "document"
+    },
+    "5d658726-c0e0-5a87-ae16-1ff53a30f85e": {
+      "doc-id": "5d658726-c0e0-5a87-ae16-1ff53a30f85e",
+      "entry-id": "5d658726-c0e0-5a87-ae16-1ff53a30f85e",
+      "segment-sections": [
+        {
+          "end": 44,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 62,
+          "start": 46,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 918,
+          "start": 907,
+          "structural-element": "Section_Header"
+        },
+        {
+          "end": 44,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 62,
+          "start": 46,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 918,
+          "start": 907,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 180,
+          "start": 66,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 323,
+          "start": 182,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 384,
+          "start": 325,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 475,
+          "start": 385,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 536,
+          "start": 477,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 723,
+          "start": 538,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 805,
+          "start": 725,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 905,
+          "start": 807,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1133,
+          "start": 920,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1202,
+          "start": 1135,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1337,
+          "start": 1204,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1479,
+          "start": 1339,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1655,
+          "start": 1481,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1804,
+          "start": 1657,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1993,
+          "start": 1806,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Two killed during protest in Iraqi Kurdistan\r\n17 February 2011\r\n\r\nTwo people have been killed and 40 wounded after police shot at a crowd of protesters in Kurdistan, northern Iraq.\r\nHundreds of young men, chanting slogans against corruption and high unemployment, tried to storm the local government offices in Sulaimaniya.\r\nThere have been a string of protests in cities across Iraq. On Wednesday, three people were killed in clashes with police in the southern city of Kut.\r\nIraqi Prime Minister Nouri al-Maliki has appealed for calm.\r\n\"I welcome those who demonstrate peacefully for their legitimate rights, but I am not in favour of those who exploit those claims to incite riots,\" he told a news conference in Baghdad.\r\n\"The perpetrators will be brought to court and they will be punished,\" he added.\r\nThe protests in Iraq come amid a wave of unrest sweeping through the Middle East and North Africa.\r\nBasic needs\r\nAn advisor to the Kurdish regional government, Tarek Jawhar, told the BBC that hundreds of young men marched towards the local offices of the Kurdistan Democratic Party (KDP) of regional President Massoud Barzani.\r\nWitnesses said they were chanting: \"The corrupt must face justice.\"\r\nPolice started shooting when some people tried to storm the building, resulting in the deaths of two young men, Iraqi officials said.\r\nThe KDP along with the Patriotic Union of Kurdistan have controlled the oil-rich autonomous region in the north of Iraq for several decades.\r\nElsewhere in the country, thousands of Iraqis - angry about a lack of basic services such as electricity and clean drinking water - have taken to the streets in recent weeks.\r\nDemonstrations have been held in the oil hubs of Basra and Kirkuk, as well as other smaller towns, but have not resulted in any deaths or injuries.\r\nThursday's protest and a similar rally in Kut on Wednesday were Iraq's most violent since a wave of Arab revolts broke out last month that have toppled the presidents of Tunisia and Egypt.",
+      "segment-type": "document"
+    },
+    "73235880-7f21-5967-ac6e-3dd58b843d26": {
+      "doc-id": "73235880-7f21-5967-ac6e-3dd58b843d26",
+      "entry-id": "73235880-7f21-5967-ac6e-3dd58b843d26",
+      "segment-sections": [
+        {
+          "end": 119,
+          "start": 76,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 73,
+          "start": 3,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 73,
+          "start": 3,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 119,
+          "start": 76,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 264,
+          "start": 122,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 358,
+          "start": 265,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 481,
+          "start": 359,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 572,
+          "start": 482,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 687,
+          "start": 573,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 725,
+          "start": 688,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": " \r\nWed 18 Jul 2007 19.07 EDT First published on Wed 18 Jul 2007 19.07 EDT \r\nThree get death penalty for Mumbai bombings \r\nThe first death sentences were handed out yesterday for the 1993 Mumbai bombings that killed 257 people in India's deadliest terrorist attack. Parvez Shaikh, Mushtaq Tarani and Abdul Ghani Turk were all convicted of planting explosives. The bombings were thought to be acts of revenge for the demolition of a 16th-century mosque by Hindu nationalists in 1992. After the demolition, religious riots erupted, leaving more than 800 dead, mostly Muslims. Justice Pramod Kode has so far sentenced 81 people, with 14 given life sentences and up to 13 awaiting sentencing. Thirty-five suspects remain at large. \r\n\r\n\r\n",
+      "segment-type": "document"
+    },
+    "75c0caf2-8efe-5dc2-ab10-7d9cb3e1956a": {
+      "doc-id": "75c0caf2-8efe-5dc2-ab10-7d9cb3e1956a",
+      "entry-id": "75c0caf2-8efe-5dc2-ab10-7d9cb3e1956a",
+      "segment-sections": [
+        {
+          "end": 97,
+          "start": 73,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 717,
+          "start": 638,
+          "structural-element": "Section_Header"
+        },
+        {
+          "end": 1024,
+          "start": 721,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 97,
+          "start": 73,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 717,
+          "start": 638,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 69,
+          "start": 2,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 297,
+          "start": 101,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 494,
+          "start": 299,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 636,
+          "start": 496,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 911,
+          "start": 721,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1024,
+          "start": 912,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1191,
+          "start": 1026,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1350,
+          "start": 1193,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1499,
+          "start": 1352,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1833,
+          "start": 1501,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\r\nImran Khan abandons Islamabad protest after inquiry into PM granted\r\n\r\nTue 1 Nov 2016 10.14 EDT\r\n\r\nImran Khan has abandoned plans to bring Islamabad to a standstill after Pakistan’s highest court agreed to his petition to launch an inquiry into corruption allegations against the prime minister.\r\nKhan, the leader of the Tehreek-e-Insaf party (PTI), had vowed to “lock down” Pakistan’s capital on Wednesday as part of his campaign against Nawaz Sharif after the leaking of the Panama Papers .\r\nHe says the prime minister must explain how his children became owners or trustees of offshore companies that own expensive London property.\r\nImran Khan on the Panama Papers: ‘The coalition of the corrupt help each other’\r\n\r\nWith thousands of Khan’s supporters bearing down on the capital on Tuesday, the supreme court offered a way out of the crisis, saying the PTI and the governing Pakistan Muslim League (Nawaz) (PML-N) had until Thursday to agree terms of reference for the judge-led inquiry or the court would decide them.\r\nSharif and his children deny any wrongdoing, but Khan has suggested that the family’s offshore companies may have been used to hide “ill-gotten wealth” or avoid tax.\r\nThe imposing supreme court building was surrounded by heavy security for a hearing that attracted leading politicians from the government and the opposition.\r\nIslamabad had been braced for the arrival of thousands of Khan’s supporters, in a repeat of the PTI’s 2014 street protests that lasted four months.\r\nFearing violent confrontations in the heart of the capital, the government had taken extraordinary steps to head off the protests, including placing shipping containers across some of the access roads into Islamabad and using colonial-era legislation to ban gatherings of more than four people in Punjab, Pakistan’s largest province.",
+      "segment-type": "document"
+    },
+    "75f7d80a-d39a-5b12-af6b-e20cc527c635": {
+      "doc-id": "75f7d80a-d39a-5b12-af6b-e20cc527c635",
+      "entry-id": "75f7d80a-d39a-5b12-af6b-e20cc527c635",
+      "segment-sections": [
+        {
+          "end": 54,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 77,
+          "start": 56,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 127,
+          "start": 79,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 137,
+          "start": 129,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 54,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 77,
+          "start": 56,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 127,
+          "start": 79,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 137,
+          "start": 129,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 317,
+          "start": 138,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 556,
+          "start": 319,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 651,
+          "start": 558,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 723,
+          "start": 654,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 822,
+          "start": 724,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 924,
+          "start": 824,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 996,
+          "start": 925,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1127,
+          "start": 998,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1192,
+          "start": 1128,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1312,
+          "start": 1194,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1435,
+          "start": 1313,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1487,
+          "start": 1438,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Uganda plans mass vaccination in yellow fever outbreak\r\nBy the CNN Wire Staff\r\nDecember 28, 2010 -- Updated 1720 GMT (0120 HKT)\r\n(CNN) -- Uganda is planning to inoculate 2.5 million residents in the East African nation's northern districts, where a yellow fever outbreak has killed 45 people and sickened another 183.\r\nThe outbreak began in early November but was not confirmed as yellow fever until December 23 by the U.S. Centers for Disease Control and Prevention, Dr. Nathan Kenya-Mugisha, director general of the Ugandan Health Ministry, said Tuesday.\r\nHe said the cause of the outbreak was not known but that it could have originated in animals. \r\n\"We are doing all we can to contain the disease,\" Kenya-Mugisha said. \"We are working with our partners to mobilize our resources to vaccinate (in) the affected areas.\"\r\nYellow fever is a viral disease transmitted to human beings through the bite of infected mosquitoes. It can lead to severe hepatitis and hemorrhaging, according to the CDC.\r\nThere is no specific treatment for yellow fever, and care is based on symptoms that include fever, backache, nausea and vomiting. People can pass on the illness without ever having its symptoms.\r\nThe World Health Organization estimates there are 200,000 cases of yellow fever and 30,000 deaths worldwide each year. Uganda's last outbreak of yellow fever, a disease endemic to tropical regions, was in the early 1970s, Kenya-Mugisha said. \r\nCNN's Salma Abdelaziz contributed to this report.\r\n\r\n",
+      "segment-type": "document"
+    },
+    "97bd1bd4-8a41-51e4-9130-d9b20977a37e": {
+      "doc-id": "97bd1bd4-8a41-51e4-9130-d9b20977a37e",
+      "entry-id": "97bd1bd4-8a41-51e4-9130-d9b20977a37e",
+      "segment-sections": [
+        {
+          "end": 64,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 93,
+          "start": 68,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 139,
+          "start": 95,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 64,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 93,
+          "start": 68,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 139,
+          "start": 95,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 305,
+          "start": 143,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 509,
+          "start": 308,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 707,
+          "start": 511,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 897,
+          "start": 709,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 996,
+          "start": 899,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1092,
+          "start": 998,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1259,
+          "start": 1094,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1458,
+          "start": 1261,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1623,
+          "start": 1460,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Golden Dawn in clash with Greek police at anti-immigrant protest\r\n\r\nTue 22 May 2012 19.23 EDT\r\nFirst published on Tue 22 May 2012 19.23 EDT\r\n\r\nPeople run to avoid teargas during clashes between supporters of the far-right Golden Dawn and police after an anti-immigrant protest in the Greek port of Patras. \r\nSupporters of an extreme right party which entered Greece's parliament for the first time in the 6 May elections have clashed with police during an anti-immigrant protest in the western port of Patras.\r\nThe clashes followed a peaceful demonstration by hundreds of residents outside an old factory inhabited by migrants seeking to stow away on ferries bound for Italy, according to Greek authorities.\r\nRiot police guarding the immigrants responded with teargas after they came under fire from stones thrown by supporters of the anti-immigrant group Golden Dawn, which held a separate march.\r\nSeveral suspected rioters were detained by police, according to the Associated Press news agency.\r\nThe protests followed the fatal stabbing of a local man, allegedly by illegal Afghan migrants.\r\nGolden Dawn won 7% of the votes in the elections on a tide of anti-immigration sentiment after it campaigned using the slogan \"let's rid this country of the stench\".\r\nIts leader, Nikos Michaloliakos, was among the party chiefs who held meetings with the Greek president, Karolos Papoulias, as attempts were made to form a coalition in order to avert new elections.\r\nRecent polls have shown falling support for Golden Dawn ahead of the new round of elections on 17 June, so it remains uncertain if the party will retain its seats.\r\n",
+      "segment-type": "document"
+    },
+    "9e9fd134-7794-5e31-a795-f7ff47e65e6b": {
+      "doc-id": "9e9fd134-7794-5e31-a795-f7ff47e65e6b",
+      "entry-id": "9e9fd134-7794-5e31-a795-f7ff47e65e6b",
+      "segment-sections": [
+        {
+          "end": 35,
+          "start": 2,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 35,
+          "start": 2,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 252,
+          "start": 36,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 382,
+          "start": 254,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 517,
+          "start": 384,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 659,
+          "start": 519,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 820,
+          "start": 661,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1055,
+          "start": 822,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1187,
+          "start": 1057,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1297,
+          "start": 1189,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1361,
+          "start": 1299,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1440,
+          "start": 1362,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1513,
+          "start": 1442,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1604,
+          "start": 1514,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\r\nNew Delhi [India], Mar. 05 (ANI): The Enforcement Directorate (ED) is to file a Prevention of Money Laundering Act (PMLA) case against meat exporter Moin Qureshi and ex- Central Bureau of Investigation (CBI) director A.P. Singh, according to sources.\r\nEarlier on February 20, the CBI, on the complaint of ED registered a case against A.P. Singh and Moin Qureshi along with others.\r\nAccording to sources, it has been alleged that Qureshi was taking favour from public servants and money from various unknown sources.\r\nThe investigating agency also conducted raids in Delhi, Ghaziabad, Hyderabad and Chennai in connection with Qureshi's money laundering case.\r\nEarlier this year, a Look Out Circular (LOC) was issued by ED against Qureshi to ensure his presence during the probe in the money laundering case against him.\r\nHowever, on February 23, the former CBI chief came out defiantly against the allegation of being involved in a corruption case related to Qureshi, and said majority of chats between him and the former took place after his retirement.\r\n\"Majority chats (BBM chats with Meat exporter Moin Qureshi) are after I retired from the CBI in November 2012,\" said Singh to ANI.\r\nSingh further said the majority of the chats are personal and not something which can help in investigation.\r\n\"None of the purported BBMs pertain to the CBI investigations. They are mostly personal and innocuous in nature as between friends,\" he said.\r\n\"Suffice to say these BBMs have been in public domain for over 3 years. The Income tax and Enforcement Directorate (ED) have not added anything further,\" he added.",
+      "segment-type": "document"
+    },
+    "bcbaa297-a22c-547c-9261-5fbbd7efd90a": {
+      "doc-id": "bcbaa297-a22c-547c-9261-5fbbd7efd90a",
+      "entry-id": "bcbaa297-a22c-547c-9261-5fbbd7efd90a",
+      "segment-sections": [
+        {
+          "end": 29,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 50,
+          "start": 34,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 120,
+          "start": 52,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 29,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 50,
+          "start": 34,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 120,
+          "start": 52,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 285,
+          "start": 123,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 315,
+          "start": 287,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 449,
+          "start": 316,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 559,
+          "start": 450,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 612,
+          "start": 560,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 766,
+          "start": 614,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1042,
+          "start": 768,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1114,
+          "start": 1043,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1181,
+          "start": 1116,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Nigeria attacks leave 10 dead \r\n\r\nAssociated Press\r\nMon 4 Jul 2011 01.07 EDT First published on Mon 4 Jul 2011 01.07 EDT \r\nAt least 10 people were killed in weekend violence in Nigeria's restive north-east in a series of attacks attributed to a radical Muslim sect, officals have said.\r\nMajor General Jack Nwachukwu Nwaogbo said an explosion near police barracks in the city of Maiduguri killed at least five people and wounded 10 on Sunday evening. He also said three gunmen from the Boko Haram sect shot and killed four people in Maiduguri late on Saturday. Nwaogbo said a fifth person was shot dead on Sunday.\r\nBoko Haram claimed responsibility, in an unverified statement, for a bombing on 16 June at the national police headquarters that left at least two dead.\r\nBoko Haram, – whose name means \"western education is sacrilege\" in the local Hausa language – is responsible for a series of killings targeting police officers, soldiers, politicians and clerics in Nigeria's north over the last year, including attacks on local beer outlets. They have also attacked churches and engineered a massive prison break.\r\nThe group wants strict Shariah law implemented across the region.\r\n\r\n",
+      "segment-type": "document"
+    },
+    "bd7c779a-cfde-5afb-9ede-09ef44a5f3eb": {
+      "doc-id": "bd7c779a-cfde-5afb-9ede-09ef44a5f3eb",
+      "entry-id": "bd7c779a-cfde-5afb-9ede-09ef44a5f3eb",
+      "segment-sections": [
+        {
+          "end": 56,
+          "start": 1,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 655,
+          "start": 431,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 56,
+          "start": 1,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 307,
+          "start": 57,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 483,
+          "start": 308,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 655,
+          "start": 484,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 707,
+          "start": 656,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 890,
+          "start": 708,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1073,
+          "start": 891,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1201,
+          "start": 1074,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1364,
+          "start": 1202,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1599,
+          "start": 1365,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "\nUAE agrees to give Egypt $3 billion in loans and grants\nKuwait will provide $4 billion in aid to Egypt, state news agency KUNA said on Wednesday, matching pledges by Saudi Arabia and the United Arab Emirates that showed Gulf Arab approval of the Egyptian army's ousting of Islamist President Mohamed Morsi.\nKUNA said the package would comprise a $2 billion central bank deposit, a $1 billion grant and $1 billion in oil products,\nOn Tuesday Saudi Arabia and the United Arab Emirates each pledged $4 billion in aid to Egypt, where the army overthrew the Muslim Brotherhood's Mursi a week ago after huge street demonstrations against the elected president.\nKUNA did not say when the Kuwaiti aid would arrive.\nKuwait has in the past cooperated with Riyadh and Abu Dhabi, pledging financial aid for Gulf neighbors hit by social unrest such as Bahrain and Oman, but also for Morocco and Jordan.\nThe aid from the three Gulf Arab oil producers is expected to help Egypt avoid a balance of payments crisis and overcome fuel shortages that partly stoked public anger against Morsi.\nIt will also ease pressure on Cairo to conclude long-running talks with the International Monetary Fund on a $4.8 billion loan. However, a surging fiscal gap and political turmoil following Morsi's toppling last week will remain a pressing challenge for Egyptian authorities, analysts said.\nQatar lent Egypt more than $7 billion during Morsi's abruptly curtailed year in power, but other Gulf states remained aloof, wary of the Muslim Brotherhood's potential influence in their own conservative, dynastically ruled countries.\n\n",
+      "segment-type": "document"
+    },
+    "bf6fc38f-9974-5999-b241-11e0f2b0b910": {
+      "doc-id": "bf6fc38f-9974-5999-b241-11e0f2b0b910",
+      "entry-id": "bf6fc38f-9974-5999-b241-11e0f2b0b910",
+      "segment-sections": [
+        {
+          "end": 46,
+          "start": 0,
+          "structural-element": "Headline"
+        },
+        {
+          "end": 194,
+          "start": 169,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 167,
+          "start": 48,
+          "structural-element": "Story-Lead"
+        },
+        {
+          "end": 46,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 167,
+          "start": 48,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 194,
+          "start": 169,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 393,
+          "start": 200,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 637,
+          "start": 395,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 752,
+          "start": 639,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 865,
+          "start": 753,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 968,
+          "start": 867,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1144,
+          "start": 970,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1232,
+          "start": 1146,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1307,
+          "start": 1233,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1322,
+          "start": 1308,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1338,
+          "start": 1323,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1392,
+          "start": 1339,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1588,
+          "start": 1394,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1756,
+          "start": 1590,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1976,
+          "start": 1758,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Violence in Madrid as police charge protesters\r\nBaton-wielding police fired rubber bullets at demonstrators who had tried to surround the country's parliament building\r\nTue 25 Sep 2012 19.02 EDT\r\n\r\n\r\nViolence flared on Tuesday in the centre of Madrid as baton-wielding police charged crowds and fired rubber bullets at demonstrators who had tried to surround the country's parliament building.\r\nSome 32 people were injured, including several police officers, and several dozen were arrested after police broke up the \"surround the parliament\" demonstration against Mariano Rajoy's government shortly after it overran its 9.30pm deadline.\r\nSeveral hundred protesters remained peacefully on the streets near the parliament building late on Tuesday night. They are demanding the resignation of the government and the king, as well as a rewrite of Spain's constitution.\r\nAuthorities have estimated the number of protesters at 6,000 – relatively small by Spanish standards.\r\nSeveral key parts of the peaceful indignado protest movement, which successfully occupied city squares around Spain last year, had refused to support Tuesday's demonstration.\r\nProtesters complained that police officers hid badges so they could not be identified. \"They don't wear them and we back that when they deal with violent groups. Give them hell and that's it!\" tweeted Jose Manuel Sanchez, of the SUP police union.\r\nTuesday's protests came shortly after Catalan regional prime minister Artur Mas called a snap election for 25 November amid a growing wave of support for separatism in Spain's wealthiest region.\r\nIndependence was set to be the key issue in elections, bringing Rajoy a fresh set of problems as he struggles with 25 percent unemployment and a double-dip recession.\r\nA radical association of retired Spanish servicemen, the Spanish Military Association, claimed that the constitution would oblige the army to arrest and try separatists if they unilaterally declared a separate country.\r\n",
+      "segment-type": "document"
+    },
+    "ca67d4c8-2bf4-5d71-932d-020ea02cbb50": {
+      "doc-id": "ca67d4c8-2bf4-5d71-932d-020ea02cbb50",
+      "entry-id": "ca67d4c8-2bf4-5d71-932d-020ea02cbb50",
+      "segment-sections": [
+        {
+          "end": 18,
+          "start": 0,
+          "structural-element": "Byline"
+        },
+        {
+          "end": 297,
+          "start": 288,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 46,
+          "start": 20,
+          "structural-element": "Dateline"
+        },
+        {
+          "end": 18,
+          "start": 0,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 46,
+          "start": 20,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 297,
+          "start": 288,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 283,
+          "start": 48,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 717,
+          "start": 298,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 980,
+          "start": 722,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1111,
+          "start": 985,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1304,
+          "start": 1116,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1427,
+          "start": 1309,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1562,
+          "start": 1432,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1700,
+          "start": 1567,
+          "structural-element": "Sentence"
+        },
+        {
+          "end": 1785,
+          "start": 1701,
+          "structural-element": "Sentence"
+        }
+      ],
+      "segment-text": "Text by News Wires\r\nLatest update : 2011-05-23\r\nA French appeals court has ruled that former President Jacques Chirac’s corruption trial can go ahead after rejecting claims that some of the charges, which date back to the 1990s, are unconstitutional under the statute of limitations.\r\n \r\nREUTERS - France’s top court ruled on Friday that a trial of former president Jacques Chirac for the misuse of public funds must go ahead, rejecting an earlier move to drop the case.\r\n \r\nThe long-awaited trial of Chirac and nine co-defendants marks the first time a former French head of state has been tried since 1945, when Marshal Philippe Petain was convicted of treason for collaborating with the Nazis during World War Two.\r\n \r\nThe trial, which only opened after 11 years of legal wrangling, was postponed in March so that France’s Court of Appeals could consider a complaint from a co-defendant that some of the alleged offences were too old to be tried under a statute of limitations.\r\n \r\nThe delay triggered an outcry from anti-graft campaigners who feared Chirac would get special treatment as a former president.\r\n \r\nThe 78-year-old, who ruled France for 12 years until 2007, is accused of using public money to pay for phantom jobs for political cronies while he was mayor of Paris between 1977 and 1995.\r\n \r\nA Paris court is now to decide on June 20 when the trial should resume, with a date in September considered as likely.\r\n \r\nChirac, who remains one of France’s most popular politicians, enjoyed immunity from prosecution during his two terms as president.\r\n \r\nIf found guilty, Chirac could be sentenced to up to 10 years in prison and could be ordered to pay 150,000 euros ($215,000) in fines. However, a suspended sentence is considered more likely in the event of a conviction.",
+      "segment-type": "document"
+    }
+  },
+  "format-type": "bp-corpus",
+  "format-version": "v10"
+}
