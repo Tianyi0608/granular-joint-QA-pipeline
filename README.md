@@ -1,18 +1,24 @@
 QA-pipeline
 ===========
 
- 
 
-this is an event arguments extraction pipeline model on a granular level.
+this is an event argument extraction pipeline model on a granular level.
+<br>
+<br>
 
- 
+- to download the required packages, please run the following command
+```
+$ cd QA_pipeline
+$ pip install -r requirements.txt
+```
+<br>
+<br>
 
-to run this model, you can use the following command
+- under QA_pipeline folder, to run this model, you can use the following command 
+(the trained model is saved in other place, so you cannot run it by just copying this repo)
+```
+$ sh QA_pipeline.sh
+```
+<br>
 
-\`\`\`
-
-\$ cd QA_pipeline
-
-\$ sh QA_pipeline.sh
-
-\`\`\`
+for the explanations of the model, please see the annotations in the QA_pipeline.sh
