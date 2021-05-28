@@ -1,4 +1,4 @@
-export UDA_VISIBLE_DEVICES=2
+export CUDA_VISIBLE_DEVICES=2
 
 # the ref bp json file we need to run QA on
 export BP_JSON_REF_FILE_PATH='../data/bp_json/granular.eng-provided-72.0pct.devtest-15.0pct.ref.d.bp.json'
