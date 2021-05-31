@@ -2,7 +2,7 @@ granular-QA-pipeline
 ===========
 
 
-this is an event argument extraction pipeline model on a granular level.
+this is an event argument extraction pipeline for a joint model on a granular level.
 <br>
 <br>
 
