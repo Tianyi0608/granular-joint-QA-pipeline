@@ -24,7 +24,7 @@ echo "end pre-processing"
 
 # step 2: squad as input to run the model
 # pay attention to the path
-python ../template_model/run_squad.py \
+python run_squad.py \
     --model_type bert \
     --model_name_or_path ../models/squad_bert_pretrained_try_1/checkpoint-1500/ \
     --overwrite_cache \
